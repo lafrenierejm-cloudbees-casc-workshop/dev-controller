@@ -1,0 +1,4 @@
+variables:
+- team: lafrenierejm-cloudbees-casc-workshop
+- admin-user: lafrenierejm-admin
+- manager-user: lafrenierejm
